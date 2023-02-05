@@ -1,0 +1,65 @@
+body{
+    background-image: url(./white-stripe-diagonal-minimal-background-creative-straight-line-geometric-pattern-white-gray-soft_541122-591.jpg);
+    
+}
+
+
+.navbar-brnd{
+    
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    
+}
+
+.navbar-brnd:hover{
+    background-color: rgb(255, 255, 255);
+}
+
+#red:hover{
+    background-color: rgb(255, 0, 0);
+    
+}
+#orange:hover{
+    background-color: rgb(255, 68, 0);
+    
+}
+#yellow:hover{
+    background-color: rgb(224, 153, 31);
+    
+}
+#green:hover{
+    background-color:  rgb(26, 117, 50);
+}
+#blue:hover{
+    background-color: rgb(57, 36, 200);
+    
+}
+#purple:hover{
+    background-color: rgb(46, 0, 81);
+    
+}
+
+
+#nav2{
+    display: flex;
+    justify-content: center;
+    margin: -10px;
+
+}
+p:hover{background-color: ;}
+
+ul{
+    display: flex;
+    align-items: center;
+}
+
+
+li{
+    list-style-type: none;
+    padding: 15px;
+
+   
+}
+
+
